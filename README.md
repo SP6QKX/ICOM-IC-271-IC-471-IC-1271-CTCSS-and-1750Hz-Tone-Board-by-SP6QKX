@@ -8,4 +8,9 @@ https://qrz.com/DB/SP6QKX
 
 https://www.facebook.com/sp6qkx
 
-https://www.youtube.com/watch?v=cL4E8_ZkOGc
+Instalation - https://youtu.be/cL4E8_ZkOGc
+
+and Test - https://youtu.be/GIfng9j6c-c
+
+
+That all folks :) vy73 Daniel SP6QKX . https://www.qrz.com/db/sp6qkx
