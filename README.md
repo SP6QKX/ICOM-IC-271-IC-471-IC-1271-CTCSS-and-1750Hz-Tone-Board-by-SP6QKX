@@ -24,4 +24,4 @@ That all folks :) vy73 Daniel SP6QKX . https://www.qrz.com/db/sp6qkx
 <img src="https://raw.githubusercontent.com/SP6QKX/ICOM-IC-271-IC-471-IC-1271-CTCSS-and-1750Hz-Tone-Board-by-SP6QKX/master/ToneV2r.jpg">
 <img src="https://raw.githubusercontent.com/SP6QKX/ICOM-IC-271-IC-471-IC-1271-CTCSS-and-1750Hz-Tone-Board-by-SP6QKX/master/ToneV3.jpg">
 <img src="https://raw.githubusercontent.com/SP6QKX/ICOM-IC-271-IC-471-IC-1271-CTCSS-and-1750Hz-Tone-Board-by-SP6QKX/master/ToneV3r.jpg">
-<img src="https://raw.githubusercontent.com/SP6QKX/ICOM-IC-271-IC-471-IC-1271-CTCSS-and-1750Hz-Tone-Board-by-SP6QKX/master/ic271-3.jpg">
+<img src="https://raw.githubusercontent.com/SP6QKX/ICOM-IC-271-IC-471-IC-1271-CTCSS-and-1750Hz-Tone-Board-by-SP6QKX/master/ic-271-3.jpg">
